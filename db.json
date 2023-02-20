@@ -1,0 +1,62 @@
+{
+  "addtocart": [
+    {
+      "id": 1,
+      "Pname": "adidas",
+      "pcat": "trouser",
+      "pamount": 1500,
+      "img": "https://cdn.shopify.com/s/files/1/0423/3576/4634/products/RS_8795_10bee235-175a-46ae-913d-5574e0f3816e_720x1080.jpg?v=1669205345"
+    },
+    {
+      "id": 2,
+      "pname": "adidas",
+      "pcat": "trouser",
+      "pamount": 1300,
+      "img": "https://images.bewakoof.com/t1080/feel-good-lilac-solid-joggers-454663-1655751717-1.jpg"
+    },
+    {
+      "id": 3,
+      "pname": "levis",
+      "pcat": "formal dress",
+      "pamount": 1200,
+      "img": "https://cdn.shopify.com/s/files/1/0551/9015/9499/products/0E4A7234_900x.jpg?v=1659773364"
+    },
+    {
+      "id": 4,
+      "pname": "levis",
+      "pcat": "formal dress",
+      "pamount": 4500,
+      "img": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5Q4hePdxELet1_XFwiAS6Y5dqvnhyP0DVNpRwzXcdC6ntAIclAdoLshffnJuCbvS5XPwuqBdu-iAalWpHJ2PuSUsuVjCzXsZmuRTOh3c4k6sra874FKlr0g"
+    },
+    {
+      "id": 5,
+      "pname": "firstCry",
+      "pcat": "casual wear",
+      "pamount": 5600,
+      "img": "https://cdn.fcglcdn.com/brainbees/images/products/438x531/11777816a.webp"
+    },
+    {
+      "id": 6,
+      "pname": "firstCry",
+      "pcat": "casual wear",
+      "pamount": 4300,
+      "img": "https://asset1.cxnmarksandspencer.com/is/image/mands/SD_04_T92_6500B_V5_X_EC_0?$PDP_INT_IMAGE_MOBILE_DOUBLE$"
+    }
+  ],
+  "cart": [
+    {
+      "name": "firstCry",
+      "cat": "casual wear",
+      "amount": 4300,
+      "image": "https://asset1.cxnmarksandspencer.com/is/image/mands/SD_04_T92_6500B_V5_X_EC_0?$PDP_INT_IMAGE_MOBILE_DOUBLE$",
+      "id": 5
+    },
+    {
+      "name": "levis",
+      "cat": "formal dress",
+      "amount": 4500,
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5Q4hePdxELet1_XFwiAS6Y5dqvnhyP0DVNpRwzXcdC6ntAIclAdoLshffnJuCbvS5XPwuqBdu-iAalWpHJ2PuSUsuVjCzXsZmuRTOh3c4k6sra874FKlr0g",
+      "id": 13
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+<div class="row">
+      <div class="col-md-6" *ngFor="let p of pdata">
+  <div class="card" style="width: 18rem;">
+      <img src="{{p.img}}" class="card-img-top" style="height: 400px; width: 300px;">
+      <div class="card-body">
+        <h5 class="card-title">{{p.pname}}</h5>
+        <p class="card-text">{{p.pamount}}</p>
+        <p class="card-text">{{p.pcat}}</p>
+        <button class="btn btn-danger">Remove</button>
+      </div>
+    </div>
+  
+    </div>
+  
+  

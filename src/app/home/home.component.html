@@ -1,0 +1,16 @@
+<div class="row">
+  <!---*ngFor loop is used for the data fetch from services and will display and all pdata contains it will put in p variable-->
+    <div class="col-md-6" *ngFor="let p of pdata">
+<div class="card" style="width: 18rem;">
+  <!--p.img will show all the images -->
+    <img src="{{p.img}}" class="card-img-top" style="height: 400px; width: 300px;">
+    <div class="card-body">
+      <h5 class="card-title">{{p.pamount}}</h5>
+      <p class="card-text">{{p.pname}}</p>
+      <p class="card-text">{{p.pcat}}</p>
+      <a routerLink="/addcart/{{p.id}}" class="btn btn-primary" >AddToCart</a>
+    </div>
+  </div>
+
+  </div>
+
